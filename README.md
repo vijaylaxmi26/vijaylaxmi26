@@ -3,7 +3,7 @@
 I am a Second year computer engineering undergraduate pursuing my bachelor's degree from NIT Surat.I'm working on website designing as well as computational problem.
 
 - 🔭 I’m currently working on dynamic website 
-- 🌱 I’m currently learning php
+- 🌱 I’m currently learning React
 - ⚡ Available for Internship opportunities
  
  ## GitHub Status
