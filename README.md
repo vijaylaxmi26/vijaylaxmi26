@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-I am a Second year computer engineering undergraduate pursuing my bachelor's degree from NIT Surat.I'm working on website designing as well as computational problem.
-
-- 🔭 I’m currently working on dynamic website 
-- 🌱 I’m currently learning javascript
-- ⚡ Available for Internship opportunities
+I am a Senior Engineer 1 at John Deere with a year of experience. Specializing in embedded software, I hold a Computer Science degree from NIT Surat. Proficient in C++, C, React JS, React Native, and Java, I bring a diverse skill set to the team. Excited to contribute and drive innovation at John Deere.
  
  ## GitHub Status
 ![vijaylaxmis's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijaylaxmi26&show_icons=true&theme=vue)
